@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RetrofitDemo</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="loginCaps">Login</string>
+    <string name="not_registered_create_your_account">Not Registered| Create your Account</string>
 </resources>
